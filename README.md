@@ -1,2 +1,5 @@
-# TimeToAugmentSSL
-Code repository for the paper Time to augment self-supervised learnign through time
+# Time to augment visual self-supervised learning
+
+The repository contains the repositories needed to reproduce the ToyBox results of https://arxiv.org/pdf/2207.13492.pdf .
+
+Please see each directory for specific guidelines.
