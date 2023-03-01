@@ -6,7 +6,7 @@ If you make use of this code please cite as follows:
  
 
 
-[1] **A. Aubret, M. R. Ernst, C. Teuliere, and J. Triesch, Time to augment visual self-supervised learning, in Eleventh International Conference on Learning Representations (ICLR) (2023).**
+[1] **A. Aubret, M. R. Ernst, C. Teuliere, and J. Triesch, Time to augment visual self-supervised learning, in Eleventh International Conference on Learning Representations (ICLR 2023).**
 The paper can found at https://arxiv.org/pdf/2207.13492.pdf .
 
 
