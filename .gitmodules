@@ -1,0 +1,3 @@
+[submodule "SSLTT_CORe50"]
+	path = SSLTT_CORe50
+	url = https://github.com/mrernst/SSLTT_CORe50
